@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Working on frontend mentor challenges to work on my frontend and backend skills.
 - 🌱 Learning testing, design patterns, and software architecture.
 - 👯 I’m looking to collaborate on any typescript projects and open source.
