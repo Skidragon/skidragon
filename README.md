@@ -4,7 +4,7 @@
 - 🌱 Learning testing, design patterns, and software architecture.
 - 👯 I’m looking to collaborate on any typescript projects and open source.
 - 🤔 I’m looking for help with 
-- 💬 Ask me about testing, design patterns, graphql, graphcms, typescript, scss, styled components, react, and angular.
+- 💬 Ask me about testing, design patterns, graphql, graphcms, typescript, scss, styled components, nest, mono-repos, react, and angular.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I read about anything bio-hacking related.
 
