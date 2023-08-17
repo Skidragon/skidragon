@@ -12,7 +12,6 @@
 
 ## Social
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/simon-k-davis/)
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCAm6Jn3U9ttjh84N6LNNrHw/featured)
 
 <br>
 <br>
@@ -25,4 +24,4 @@
 <br>
 <br>
 
-## Familiar with
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64de81ebced78d2935223d73?variant=dark&roadmaps=computer-science%2Cfull-stack%2Cprompt-engineering%2Csoftware-design-architecture)](https://roadmap.sh)
